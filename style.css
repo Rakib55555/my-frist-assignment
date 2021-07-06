@@ -35,7 +35,7 @@ h1{
 }
 .button2{
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 0, 200), rgba(252, 2, 252, 0.74));
+    background-image: linear-gradient(rgba(47, 0, 255, 0.89), rgba(244, 2, 252, 0.74));
         color: white;
         padding: 15px 50px;
         font-weight: 800;
