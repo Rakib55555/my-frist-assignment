@@ -25,7 +25,7 @@ h1{
     text-decoration: none;
     background-image: linear-gradient(rgb(6, 2, 252), rgb(248, 6, 228));
         color: white;
-        padding: 10px 41px;
+        padding: 15px 50px;
         font-weight: 800;
         border-radius: 100px;
 }
@@ -35,7 +35,7 @@ h1{
 }
 .button2{
     text-decoration: none;
-    background-image: linear-gradient(rgb(248, 6, 228), white);
+    background-image: linear-gradient(rgb(255, 0, 200), rgba(252, 2, 252, 0.74));
         color: white;
         padding: 15px 50px;
         font-weight: 800;
@@ -66,7 +66,7 @@ h1{
     
 }
 .item img{
-    width: 300px;
+    width: 310px;
     border-radius: 50px;
     margin: 0%;
     padding: 0%;
